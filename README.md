@@ -1,5 +1,5 @@
-<h1 align="center">🚀 V.Meghana  | Data Science Student </h1>  
-<p align="center">AI Enthusiast | Open Source Contributor | Tech Speaker</p>  
+<h1 align="center">🚀 V. Meghana  | Data Science Student </h1>  
+<p align="center">AI Enthusiast | Open Source Contributor | Data Science Explorer</p>  
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
